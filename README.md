@@ -14,5 +14,3 @@ we determine whether the eyes are open or they are closed.</br></br>
 <p><img src="Drowsiness/Screenshot 2023-09-27 230204.png" align="center" height="350">
 <img src="Drowsiness/Screenshot 2023-09-27 230336.png" align="center" height="350">
 <img src="Drowsiness/Screenshot 2023-09-27 230433.png" align="center" height="350">
-
-<h2>Detailed Explanation video of the project : </h2><a href="https://youtu.be/ksi42rwGyas">Youtube video link</a>
